@@ -1,0 +1,5 @@
+*.ppm
+objs
+submission
+mandelbrot
+mandelbrotThreadRef
